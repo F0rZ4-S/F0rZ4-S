@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @F0rZ4-S
-- 👀 I’m interested in Hacking & Security
-- 🌱 I’m currently learning Ethical Hacking - Cyber Security & Linux & Python
+- 👀 I’m interested in designing 3D objects 
+- 🌱 I’m currently learning designing 3D objects
 - 📫 How to reach me sibersect@gmail.com
 
 <!---
