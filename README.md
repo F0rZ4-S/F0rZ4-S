@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @F0rZ4-S
-- 👀 I’m interested in designing 3D objects 
-- 🌱 I’m currently learning designing 3D objects
+- 👀 I’m interested in cyber security, cloud, using host and virtualboxes. 
+- 🌱 I’m currently learning linux & cyber security basics now - 28.05.2025
 - 📫 How to reach me sibersect@gmail.com
 
 <!---
