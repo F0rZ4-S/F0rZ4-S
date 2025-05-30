@@ -8,7 +8,8 @@ I'm passionate about IT and cybersecurity, currently diving deep into operating 
 - 💡 Persistent learner with a strong passion for growth  
 - 🎮 Enjoy computer games, nature walks, and camping  
 - 📫 Reach me at: [sibersect@gmail.com](mailto:sibersect@gmail.com)  
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/okan-konucuk-49564764/)  
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/okan-konucuk-49564764/)
+- 🌐 My Portfolio [Portfolio](https://okankonucuk.ct.ws)
 - ▶️ Check out my YouTube channel where I document and share what I learn about Linux: [howtolinux101](https://www.youtube.com/@howtolinux101)
 
 ---
