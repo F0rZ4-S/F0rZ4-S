@@ -16,6 +16,11 @@ I'm passionate about IT and cybersecurity, currently diving deep into operating 
 
 ## Technologies & Tools
 
+![Photoshop](https://img.shields.io/badge/photoshop-blue)
+![Illustrator](https://img.shields.io/badge/illustrator-maroon)
+![Premiere Pro](https://img.shields.io/badge/premiere-pro-skyblue)
+![Blender](https://img.shields.io/badge/3D-Blender-orange)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
