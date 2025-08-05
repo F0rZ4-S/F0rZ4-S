@@ -5,7 +5,8 @@ I'm passionate about IT and cybersecurity, currently diving deep into operating 
 - 🔐 Focused on cybersecurity and IT infrastructure  
 - 🐍 Learning Python to enhance my skills  
 - 💻 Experimenting with OS installations and virtual machines  
-- 💡 Persistent learner with a strong passion for growth  
+- 💡 Persistent learner with a strong passion for growth
+- 🧊 Making 3D Object For Games
 - 🎮 Enjoy computer games, nature walks, and camping  
 - 📫 Reach me at: [sibersect@gmail.com](mailto:sibersect@gmail.com)  
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/okan-konucuk-49564764/)
